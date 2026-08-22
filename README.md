@@ -6,7 +6,7 @@ An interactive Excel dashboard built to track personal income, expenses, budgets
 An interactive personal finance dashboard built in Microsoft Excel to monitor monthly expenses, track budget utilization, and visualize savings progress.
 
 ## 🖥️ Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_preview.png)
 
 ## 📌 Project Overview
 This project provides a comprehensive view of personal cash flow by analyzing transaction data across multiple accounts. It features dynamic KPI cards and interactive charts that update instantly based on user selection.
