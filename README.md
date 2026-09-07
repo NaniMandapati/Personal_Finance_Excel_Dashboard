@@ -1,8 +1,6 @@
 # Personal_Finance_Excel_Dashboard
 An interactive Excel dashboard built to track personal income, expenses, budgets, and savings goals.
 
-# 💰 Personal Finance & Budget Dashboard
-
 An interactive personal finance dashboard built in Microsoft Excel to monitor monthly expenses, track budget utilization, and visualize savings progress.
 
 ## 🖥️ Dashboard Preview
